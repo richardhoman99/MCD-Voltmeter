@@ -1,0 +1,3 @@
+The goal of the PCB Design project is to encourage the student understand the family of tools in KiCad. This is accomplished by having the student design a voltmeter, based on a ready made voltmeter design. To have the student focus only on design and process, a bill of materials is provided. Some of the most important items include a Xilinx XC9572XL series CPLD, an ECS 5032MV series oscillator, and two LP3869 family voltage regulators.  
+The student also must program the CPLD controller. This is done using Xilinx ISE Webpack and VHDL as the HDL.  
+Only the VHD source files are present in this repository.  
